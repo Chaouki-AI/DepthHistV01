@@ -17,8 +17,7 @@ This repository contains the DepthHist model, a preliminary version designed for
 To get started, clone the repository and install the required dependencies:
 
 
-    git clone https://github.com/yourusername/depthhist.git
-    cd depthhist
+    git clone https://github.com/chaouki-ai/DepthHistV01
     pip install -r requirements.txt
 
 
