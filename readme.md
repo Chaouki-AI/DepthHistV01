@@ -27,7 +27,7 @@ Here is a basic example of how to use the DepthHist model:
 
 
     import torch
-    from depthhist import DepthHist
+    from Models.model import DepthHist
 
     #  Example usage
     model = DepthHist.build(bins=10, simple=False, backbone="efficientnet")
